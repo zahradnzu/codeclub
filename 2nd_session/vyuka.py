@@ -5,5 +5,4 @@ if Hb < 120:
 elif Hb > 160:
     print("je to moc:(")
 else:
-print("dobrý :)")
-
+    print("dobrý :)")
